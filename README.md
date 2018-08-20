@@ -4,7 +4,7 @@
 - [转置矩阵](./transpose)
 - [数组拆分 I](./array_pair_sum) 
 - [两个排序数组的中位数](./find_median_sorted_arrays)
-- [杨辉三角](/.Pascal_triangle)
+- [杨辉三角](./Pascal_triangle)
 
 
 
