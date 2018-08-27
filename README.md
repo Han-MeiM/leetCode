@@ -7,6 +7,7 @@
 - [杨辉三角](./Pascal_triangle)
 - [重塑矩阵](./matrix_reshape)
 - [托普利茨矩阵](./toeplitz_matrix)
+- [求众数](./majority_element)
 
 
 
