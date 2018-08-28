@@ -8,6 +8,7 @@ func majorityElement(nums []int) int {
 		count[value] = count[value] + 1
 		if count[value] > length/2 {
 			max = value
+			break
 		}
 	}
 	return max
