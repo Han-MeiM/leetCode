@@ -9,6 +9,7 @@
 - [托普利茨矩阵](./toeplitz_matrix)
 - [求众数](./majority_element)
 - [移动零](./move_zeroes)
+- [移除元素](./remove_element)
 
 
 
