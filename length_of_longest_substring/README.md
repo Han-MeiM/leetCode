@@ -40,3 +40,39 @@ func in_str(s string, one int32) bool {
 
 
 若出现过则结束当前循环，并以下一个字符串作为开头继续循环，否则当前子串长度加1 `sum += 1`
+
+
+
+___
+
+
+
+另一种解法 `imooc_programme`
+
+`lastOccurred` 记录字符串最后出现的索引位置
+
+`start` 记录子串开头索引位置
+
+循环字符串并判断当前字符串的索引位置最后一次出现的地方 `lastI`
+
+如果 `lastI` 大于子串开头位置 `start` 则表示当前字符串已经在子串中出现过
+
+将 `start` 设置为 `lastI + 1` 
+
+```go
+// 当该字符串最后出现的位置在 start 和 i 之间时
+if lastI, ok := lastOccurred[ch]; ok && lastI >= start {
+	start = lastI + 1
+}
+```
+
+最后判断当前子串长度是否大于之前的最长子串长度并更新当前字符串最后出现的位置
+
+```go
+if i - start + 1 > maxLength {
+	maxLength = i - start + 1
+}
+
+lastOccurred[ch] = i
+```
+
