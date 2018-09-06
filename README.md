@@ -15,4 +15,5 @@
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | [Reshape the Matrix](./matrix_reshape)                       |
 | 766  | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix) | [Toeplitz Matrix](./toeplitz_matrix)                         |
 | 867  | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix) | [Transpose Matrix](./transpose)                              |
+| 896  | [单调数列](https://leetcode-cn.com/problems/monotonic-array) | [Monotonic Array](./Monotonic%20Array)                       |
 
