@@ -13,6 +13,7 @@
 | 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | [Max Consecutive Ones](./Max%20Consecutive%20Ones)           |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i) | [Array Partition I](./array_pair_sum)                        |
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | [Reshape the Matrix](./matrix_reshape)                       |
+| 661  | [图片平滑器](https://leetcode-cn.com/problems/image-smoother) | [Image Smoother](./Image%20Smoother)                         |
 | 766  | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix) | [Toeplitz Matrix](./toeplitz_matrix)                         |
 | 867  | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix) | [Transpose Matrix](./transpose)                              |
 | 896  | [单调数列](https://leetcode-cn.com/problems/monotonic-array) | [Monotonic Array](./Monotonic%20Array)                       |
