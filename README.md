@@ -8,6 +8,7 @@
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [Pascal's Triangle](./Pascal_triangle)                       |
 | 119  | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | [Pascal's Triangle II]()                                     |
 | 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./majority_element)                       |
+| 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./Contains%20Duplicate)                 |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | [Move Zeroes](./move_zeroes)                                 |
 | 286  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | [Missing Number](./Missing%20Number)                         |
 | 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | [Max Consecutive Ones](./Max%20Consecutive%20Ones)           |
