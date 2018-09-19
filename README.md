@@ -5,13 +5,14 @@
 | 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./length_of_longest_substring) |
 | 4    | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [Median of Two Sorted Arrays](./find_median_sorted_arrays)   |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [Remove Element](./remove_element)                           |
-| 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum%20Depth%20of%20Binary%20Tree](./maximum_depth_of_binary_tree)                           |
+| 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](./Maximum%20Depth%20of%20Binary%20Tree)                           |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [Pascal's Triangle](./Pascal_triangle)                       |
 | 119  | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | [Pascal's Triangle II]()                                     |
 | 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./majority_element)                       |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./Contains%20Duplicate)                 |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | [Move Zeroes](./move_zeroes)                                 |
 | 286  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | [Missing Number](./Missing%20Number)                         |
+| 292  | [Nim游戏](https://leetcode-cn.com/problems/nim-game)  | [Nim Game](./Nim%20Game)                         |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string) | [Reverse String](./Reverse%20String)                         |
 | 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | [Max Consecutive Ones](./Max%20Consecutive%20Ones)           |
 | 557  | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [Reverse Words in a String III](./Reverse%20Words%20in%20a%20String%20III)           |
