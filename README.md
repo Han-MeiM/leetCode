@@ -1,5 +1,5 @@
 | NO.  | Title                                                        | Path                                                 |                                          |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | 1    | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [Two Sum](./two_sum)                                         | Go                                |
 | 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [Add Two Numbers](./add_two_numbers)                         | Go                       |
 | 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./length_of_longest_substring) | Go |
@@ -11,6 +11,7 @@
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | [Single Number](./Single%20Number)                                     | Go                                   |
 | 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./majority_element)                       | Go                     |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./Contains%20Duplicate)                 | Go               |
+| 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [Delete Node in a Linked List](./Delete%20Node%20in%20a%20Linked%20List) | Go<br />JavaScript |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | [Move Zeroes](./move_zeroes)                                 | Go                               |
 | 286  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | [Missing Number](./Missing%20Number)                         | Go                       |
 | 292  | [Nim游戏](https://leetcode-cn.com/problems/nim-game)  | [Nim Game](./Nim%20Game)                         | Go                       |
