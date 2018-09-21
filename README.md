@@ -10,6 +10,7 @@
 | 119  | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | [Pascal's Triangle II]()                                     | Go                                   |
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | [Single Number](./Single%20Number)                                     | Go                                   |
 | 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./majority_element)                       | Go                     |
+| 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [Reverse Linked List](./Reverse%20Linked%20List) | Go<br />JavaScript |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./Contains%20Duplicate)                 | Go               |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [Delete Node in a Linked List](./Delete%20Node%20in%20a%20Linked%20List) | Go<br />JavaScript |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | [Move Zeroes](./move_zeroes)                                 | Go                               |
