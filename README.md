@@ -4,6 +4,7 @@
 | 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [Add Two Numbers](./add_two_numbers)                         | Go                       |
 | 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./length_of_longest_substring) | Go |
 | 4    | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [Median of Two Sorted Arrays](./find_median_sorted_arrays)   | Go |
+| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number) | Go |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [Remove Element](./remove_element)                           | Go                         |
 | 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](./Maximum%20Depth%20of%20Binary%20Tree)                           | Go                         |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [Pascal's Triangle](./Pascal_triangle)                       | Go                     |
