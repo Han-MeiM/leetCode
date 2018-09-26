@@ -4,7 +4,7 @@
 | 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [Add Two Numbers](./add_two_numbers)                         | Go                       |
 | 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./length_of_longest_substring) | Go |
 | 4    | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [Median of Two Sorted Arrays](./find_median_sorted_arrays)   | Go |
-| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number) | Go |
+| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](./Palindrome%20Number) | Go |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [Remove Element](./remove_element)                           | Go                         |
 | 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](./Maximum%20Depth%20of%20Binary%20Tree)                           | Go                         |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [Pascal's Triangle](./Pascal_triangle)                       | Go                     |
@@ -13,6 +13,7 @@
 | 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./majority_element)                       | Go                     |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [Reverse Linked List](./Reverse%20Linked%20List) | Go<br />JavaScript |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./Contains%20Duplicate)                 | Go               |
+| 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](./Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | JavaScript |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [Delete Node in a Linked List](./Delete%20Node%20in%20a%20Linked%20List) | Go<br />JavaScript |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | [Move Zeroes](./move_zeroes)                                 | Go                               |
 | 286  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | [Missing Number](./Missing%20Number)                         | Go                       |
