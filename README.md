@@ -1,32 +1,47 @@
 | NO.  | Title                                                        | Path                                                 |                                          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 1    | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [Two Sum](./two_sum)                                         | Go                                |
-| 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [Add Two Numbers](./add_two_numbers)                         | Go                       |
-| 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./length_of_longest_substring) | Go |
-| 4    | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [Median of Two Sorted Arrays](./find_median_sorted_arrays)   | Go |
-| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](./Palindrome%20Number) | Go |
-| 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [Remove Element](./remove_element)                           | Go                         |
-| 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](./Maximum%20Depth%20of%20Binary%20Tree)                           | Go                         |
-| 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [Pascal's Triangle](./Pascal_triangle)                       | Go                     |
+| 1    | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [Two Sum](./001.%20Two%20Sum)                                         | Go                                |
+| 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [Add Two Numbers](./002.%20Add%20Two%20Numbers)                         | Go                       |
+| 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./003.%20Longest%20Substring%20Without%20Repeating%20Characters) | Go |
+| 4    | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [Median of Two Sorted Arrays](./004.%20Median%20of%20Two%20Sorted%20Arrays)   | Go |
+| 7 | [反转整数](https://leetcode-cn.com/problems/reverse-integer) | [Reverse Integer](./007.%20Reverse%20Integer) | Go |
+| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](./009.%20Palindrome%20Number) | Go |
+| 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | [Longest Common Prefix](./014.%20Longest%20Common%20Prefix) | Go |
+| 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [Valid Parentheses](./020.%20Valid%20Parentheses) | Go |
+| 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](./021.%20Merge％20Two％20Sorted％20Lists) | Go |
+| 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](./026.%20Remove%20Duplicates%20from%20Sorted%20Array) | Go |
+| 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [Remove Element](./027.%20Remove%20Element)                           | Go                         |
+| 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | [Maximum Subarray](./053.%20Maximum%20Subarray) | Go |
+| 70   | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [Climbing Stairs](./070.%20Climbing%20Stairs)                           | Go                         |
+| 88   | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [Merge Sorted Array](./088.%20Merge%20Sorted%20Array)                           | Go                         |
+| 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](./104.%20Maximum%20Depth%20of%20Binary%20Tree)                           | Go                         |
+| 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [Pascal's Triangle](./118.%20Pascal's%20Triangle)                       | Go                     |
 | 119  | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | [Pascal's Triangle II]()                                     | Go                                   |
-| 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | [Single Number](./Single%20Number)                                     | Go                                   |
-| 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./majority_element)                       | Go                     |
-| 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [Reverse Linked List](./Reverse%20Linked%20List) | Go<br />JavaScript |
-| 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./Contains%20Duplicate)                 | Go               |
-| 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](./Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | JavaScript |
-| 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [Delete Node in a Linked List](./Delete%20Node%20in%20a%20Linked%20List) | Go<br />JavaScript |
-| 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | [Move Zeroes](./move_zeroes)                                 | Go                               |
-| 286  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | [Missing Number](./Missing%20Number)                         | Go                       |
-| 292  | [Nim游戏](https://leetcode-cn.com/problems/nim-game)  | [Nim Game](./Nim%20Game)                         | Go                       |
-| 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string) | [Reverse String](./Reverse%20String)                         | Go                       |
-| 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | [Max Consecutive Ones](./Max%20Consecutive%20Ones)           | Go         |
-| 557  | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [Reverse Words in a String III](./Reverse%20Words%20in%20a%20String%20III)           | Go         |
-| 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i) | [Array Partition I](./array_pair_sum)                        | Go                      |
-| 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | [Reshape the Matrix](./matrix_reshape)                       | Go                     |
-| 657  | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin) | [Robot Return to Origin](./Robot%20Return%20to%20Origin)     | Go   |
-| 661  | [图片平滑器](https://leetcode-cn.com/problems/image-smoother) | [Image Smoother](./Image%20Smoother)                         | Go                       |
-| 709  | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case) | [To Lower Case](./To%20Lower%20Case)                         | Go                       |
-| 766  | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix) | [Toeplitz Matrix](./toeplitz_matrix)                         | Go                       |
-| 867  | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix) | [Transpose Matrix](./transpose)                              | Go                            |
-| 896  | [单调数列](https://leetcode-cn.com/problems/monotonic-array) | [Monotonic Array](./Monotonic%20Array)                       | Go                     |
+| 121  | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)                                     | Go                                   |
+| 122  | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [Best Time to Buy and Sell Stock II](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)                                     | Go                                   |
+| 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | [Single Number](./136.%20Single%20Number)                                     | Go                                   |
+| 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [Linked List Cycle](./141.%20Linked%20List%20Cycle) | C++ |
+| 155  | [最小栈](https://leetcode-cn.com/problems/min-stack) | [Min Stack](./155.%20Min％20Stack)                                     | Go                                   |
+| 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | [Intersection of Two Linked Lists](./160.%20Intersection%20of%20Two%20Linked%20Lists) | C++ |
+| 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./169.%20Majority%20Element)                       | Go                     |
+| 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [Reverse Linked List](./206.%20Reverse%20Linked%20List) | Go<br />JavaScript |
+| 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./217.%20Contains%20Duplicate)                 | Go               |
+| 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) | [Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST)                 | Go               |
+| 231  | [2的幂](https://leetcode-cn.com/problems/power-of-two) | [Power of Two](./231.%20Power%20of%20Two)                 | Go               |
+| 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](./235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | JavaScript |
+| 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [Delete Node in a Linked List](./237.%20Delete%20Node%20in%20a%20Linked%20List) | Go<br />JavaScript |
+| 268  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | [Missing Number](./268.％20Missing%20Number)                         | Go                       |
+| 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | [Move Zeroes](./283.％20Move％20Zeroes)                                 | Go                               |
+| 292  | [Nim游戏](https://leetcode-cn.com/problems/nim-game)  | [Nim Game](./292.％20Nim%20Game)                         | Go                       |
+| 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string) | [Reverse String](./344.％20Reverse%20String)                         | Go                       |
+| 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | [Max Consecutive Ones](./485.％20Max%20Consecutive%20Ones)           | Go         |
+| 557  | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [Reverse Words in a String III](./557.%20Reverse%20Words%20in%20a%20String%20III)           | Go         |
+| 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i) | [Array Partition I](./561.%20Array%20Partition%20I)                        | Go                      |
+| 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | [Reshape the Matrix](./566.%20Reshape%20the%20Matrix)                       | Go                     |
+| 657  | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin) | [Robot Return to Origin](./657.%20Robot%20Return%20to%20Origin)     | Go   |
+| 661  | [图片平滑器](https://leetcode-cn.com/problems/image-smoother) | [Image Smoother](./661.%20Image%20Smoother)                         | Go                       |
+| 709  | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case) | [To Lower Case](./709.%20To%20Lower%20Case)                         | Go                       |
+| 766  | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix) | [Toeplitz Matrix](./766.%20Toeplitz%20Matrix)                         | Go                       |
+| 867  | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix) | [Transpose Matrix](./867.%20Transpose%20Matrix)                              | Go                            |
+| 896  | [单调数列](https://leetcode-cn.com/problems/monotonic-array) | [Monotonic Array](./896.%20Monotonic%20Array)                       | Go                     |
 
