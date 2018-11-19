@@ -22,7 +22,10 @@ func CreateTestData(data string) *TreeNode {
 	treeNode := make([]TreeNode, length)
 	for i := 0; i < length; i++ {
 		if res[i] != "nil" {
-			val, _ := strconv.Atoi(res[i])
+			val, err := strconv.Atoi(res[i])
+			if err != nil {
+				panic(err)
+			}
 			treeNode[i] = TreeNode{val, nil, nil}
 		}
 	}
