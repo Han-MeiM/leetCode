@@ -1,11 +1,8 @@
 package main
 
-import "fmt"
-
-type ListNode struct {
-	Val int
-	Next *ListNode
-}
+import (
+	"github.com/Han-MeiM/leetCode/structure/ListNode"
+)
 
 /**
  * Definition for singly-linked list.
@@ -14,7 +11,7 @@ type ListNode struct {
  *     Next *ListNode
  * }
  */
-func reverseList(head *ListNode) *ListNode {
+func reverseList(head *ListNode.ListNode) *ListNode.ListNode {
 	if head == nil || head.Next == nil {
 		return head
 	}
@@ -25,10 +22,7 @@ func reverseList(head *ListNode) *ListNode {
 }
 
 func main() {
-	root := ListNode{
-		Val: nil,
-		Next: nil,
-	}
-	res := reverseList(&root)
-	fmt.Println(res)
+	root := ListNode.CreateTestData("[1,2,3,4,5]")
+	res := reverseList(root)
+	ListNode.Print(res)
 }
