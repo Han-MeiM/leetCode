@@ -1,6 +1,6 @@
 package main
 
-import "leetCode/structure/ListNode"
+import "github.com/Han-MeiM/leetCode/structure/ListNode"
 
 /**
  * Definition for singly-linked list.
