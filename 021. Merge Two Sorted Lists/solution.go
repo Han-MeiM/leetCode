@@ -1,20 +1,17 @@
 package main
 
-import "fmt"
+import (
+	"github.com/Han-MeiM/leetCode/structure/ListNode"
+)
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
-func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+func mergeTwoLists(l1 *ListNode.ListNode, l2 *ListNode.ListNode) *ListNode.ListNode {
 	if l1 == nil {
 		return l2
 	}
 	if l2 == nil {
 		return l1
 	}
-	var temp *ListNode
+	var temp *ListNode.ListNode
 	if l1.Val < l2.Val {
 		temp = l1
 		temp.Next = mergeTwoLists(l1.Next, l2)
@@ -25,20 +22,9 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	return temp
 }
 
-// 输出链表结果
-func printList(l *ListNode) []int {
-	val := l.Val
-	temp := []int{val}
-	if l.Next != nil {
-		affter := printList(l.Next)
-		temp = append(temp, affter...)
-	}
-	return temp
-}
-
 func main() {
-	l1 := ListNode{1, &ListNode{2, &ListNode{4, nil}}}
-	l2 := ListNode{1, &ListNode{3, &ListNode{4, nil}}}
-	res := mergeTwoLists(&l1, &l2)
-	fmt.Println(printList(res))
+	l1 := ListNode.CreateTestData("[1,2,4]")
+	l2 := ListNode.CreateTestData("[1,3,4]")
+	res := mergeTwoLists(l1, l2)
+	ListNode.Print(res)
 }
