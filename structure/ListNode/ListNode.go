@@ -19,7 +19,10 @@ func CreateTestData(data string) *ListNode {
 	res := strings.Split(data, ",")
 	length := len(res)
 	listNode := make([]ListNode, length)
-	headVal, _ := strconv.Atoi(res[0])
+	headVal, err := strconv.Atoi(res[0])
+	if err != nil {
+		panic(err)
+	}
 	listNode[0] = ListNode{headVal, nil}
 	for i := 1; i < length; i++ {
 		headVal, _ = strconv.Atoi(res[i])
