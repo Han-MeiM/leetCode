@@ -19,29 +19,29 @@ func CreateTestData(data string) *TreeNode {
 	data = string([]rune(data)[1 : len(data)-1])
 	res := strings.Split(data, ",")
 	length := len(res)
-	treeNode := make([]TreeNode, length)
+	treeNode := make([]*TreeNode, length)
 	for i := 0; i < length; i++ {
 		if res[i] != "nil" {
 			val, err := strconv.Atoi(res[i])
 			if err != nil {
 				panic(err)
 			}
-			treeNode[i] = TreeNode{val, nil, nil}
+			treeNode[i] = &TreeNode{val, nil, nil}
 		}
 	}
 	for i := 0; i < length; i++ {
-		if treeNode[i].Val != 0 {
+		if treeNode[i] != nil {
 			leftIndex := i*2 + 1
-			if leftIndex < length && treeNode[leftIndex].Val != 0 {
-				treeNode[i].Left = &treeNode[leftIndex]
+			if leftIndex < length && treeNode[leftIndex] != nil {
+				treeNode[i].Left = treeNode[leftIndex]
 			}
 			rightIndex := leftIndex + 1
-			if rightIndex < length && treeNode[leftIndex].Val != 0 {
-				treeNode[i].Right = &treeNode[rightIndex]
+			if rightIndex < length && treeNode[leftIndex] != nil {
+				treeNode[i].Right = treeNode[rightIndex]
 			}
 		}
 	}
-	return &treeNode[0]
+	return treeNode[0]
 }
 
 const spce = "      "
