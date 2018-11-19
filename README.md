@@ -1,5 +1,7 @@
 ## Installation
+```
 go get -u github.com/Han-MeiM/leetCode...
+```
 
 ## Catalog
 | NO.  | Title                                                        | Path                                                 |                                          |
