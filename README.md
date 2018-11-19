@@ -1,3 +1,7 @@
+## Installation
+go get -u github.com/Han-MeiM/leetCode...
+
+## Catalog
 | NO.  | Title                                                        | Path                                                 |                                          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | 1    | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [Two Sum](./001.%20Two%20Sum)                                         | Go                                |
