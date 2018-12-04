@@ -20,6 +20,7 @@ go get -u github.com/Han-MeiM/leetCode
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](./026.%20Remove%20Duplicates%20from%20Sorted%20Array) | Go |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [Remove Element](./027.%20Remove%20Element)                           | Go                         |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | [Maximum Subarray](./053.%20Maximum%20Subarray) | Go |
+| 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list) | [Rotate List](./051.%20Rotate%20List) | Go |
 | 70   | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [Climbing Stairs](./070.%20Climbing%20Stairs)                           | Go                         |
 | 88   | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [Merge Sorted Array](./088.%20Merge%20Sorted%20Array)                           | Go                         |
 | 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](./104.%20Maximum%20Depth%20of%20Binary%20Tree)                           | Go                         |
