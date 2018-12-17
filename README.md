@@ -6,10 +6,10 @@ go get -u github.com/Han-MeiM/leetCode
 ## Catalog
 | NO.  | Title                                                        | Path                                                 |                                          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 1    | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [Two Sum](./001.%20Two%20Sum)                                         | Go                                |
+| 1    | [两数之和](https://leetcode-cn.com/problems/two-sum) | [Two Sum](./001.%20Two%20Sum)                                         | Go                                |
 | 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [Add Two Numbers](./002.%20Add%20Two%20Numbers)                         | Go                       |
 | 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./003.%20Longest%20Substring%20Without%20Repeating%20Characters) | Go |
-| 4    | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [Median of Two Sorted Arrays](./004.%20Median%20of%20Two%20Sorted%20Arrays)   | Go |
+| 4    | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](./004.%20Median%20of%20Two%20Sorted%20Arrays)   | Go |
 | 7 | [反转整数](https://leetcode-cn.com/problems/reverse-integer) | [Reverse Integer](./007.%20Reverse%20Integer) | Go |
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](./009.%20Palindrome%20Number) | Go |
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | [Container With Most Water](./011.%20Container%20With%20Most%20Water) | Go |
@@ -18,13 +18,14 @@ go get -u github.com/Han-MeiM/leetCode
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [Valid Parentheses](./020.%20Valid%20Parentheses) | Go |
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](./021.%20Merge％20Two％20Sorted％20Lists) | Go |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](./026.%20Remove%20Duplicates%20from%20Sorted%20Array) | Go |
-| 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [Remove Element](./027.%20Remove%20Element)                           | Go                         |
+| 27   | [移除元素](https://leetcode-cn.com/problems/remove-element) | [Remove Element](./027.%20Remove%20Element)                           | Go                         |
+| 43   | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | [Multiply Strings](./043.%20Multiply%20Strings)                           | Go                         |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | [Maximum Subarray](./053.%20Maximum%20Subarray) | Go |
 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list) | [Rotate List](./061.%20Rotate%20List) | Go |
 | 70   | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [Climbing Stairs](./070.%20Climbing%20Stairs)                           | Go                         |
 | 88   | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [Merge Sorted Array](./088.%20Merge%20Sorted%20Array)                           | Go                         |
 | 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](./104.%20Maximum%20Depth%20of%20Binary%20Tree)                           | Go                         |
-| 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [Pascal's Triangle](./118.%20Pascal's%20Triangle)                       | Go                     |
+| 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | [Pascal's Triangle](./118.%20Pascal's%20Triangle)                       | Go                     |
 | 119  | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | [Pascal's Triangle II]()                                     | Go                                   |
 | 121  | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)                                     | Go                                   |
 | 122  | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [Best Time to Buy and Sell Stock II](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)                                     | Go                                   |
