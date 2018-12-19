@@ -38,6 +38,7 @@ go get -u github.com/Han-MeiM/leetCode
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [Best Time to Buy and Sell Stock II](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | Go |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | [Single Number](./136.%20Single%20Number) | Go |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [Linked List Cycle](./141.%20Linked%20List%20Cycle) | C++ |
+| 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [Linked List Cycle II](./142.%20Linked%20List%20Cycle%20II) | Go |
 | 148 | [排序链表](https://leetcode-cn.com/problems/sort-list) | [Sort List](./148.%Sort%20List) | Go |
 | 155  | [最小栈](https://leetcode-cn.com/problems/min-stack) | [Min Stack](./155.%20Min％20Stack) | Go |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | [Intersection of Two Linked Lists](./160.%20Intersection%20of%20Two%20Linked%20Lists) | C++ |
