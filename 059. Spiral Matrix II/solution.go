@@ -4,7 +4,7 @@ import "fmt"
 
 func generateMatrix(n int) [][]int {
 	res := makeArr(n)
-	square := n*n
+	square := n * n
 	num := 1
 	var x, y int
 	for num <= square {
