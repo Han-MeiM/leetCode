@@ -14,6 +14,7 @@ go get -u github.com/Han-MeiM/leetCode
 | 2 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [Add Two Numbers](./002.%20Add%20Two%20Numbers) | Go |
 | 3 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./003.%20Longest%20Substring%20Without%20Repeating%20Characters) | Go |
 | 4 | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](./004.%20Median%20of%20Two%20Sorted%20Arrays) | Go |
+| 4 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](./005.%20Longest%20Palindromic%20Substring) | Go |
 | 7 | [反转整数](https://leetcode-cn.com/problems/reverse-integer) | [Reverse Integer](./007.%20Reverse%20Integer) | Go |
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](./009.%20Palindrome%20Number) | Go |
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | [Container With Most Water](./011.%20Container%20With%20Most%20Water) | Go |
