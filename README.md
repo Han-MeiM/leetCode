@@ -19,6 +19,7 @@ go get -u github.com/Han-MeiM/leetCode
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number) | [Palindrome Number](./009.%20Palindrome%20Number) | Go |
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | [Container With Most Water](./011.%20Container%20With%20Most%20Water) | Go |
 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | [Longest Common Prefix](./014.%20Longest%20Common%20Prefix) | Go |
+| 15 | [三数之和](https://leetcode-cn.com/problems/3sum) | [3Sum](./15.%203Sum) | Go |
 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | [3Sum Closest](./016.%203Sum%20Closest) | Go |
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [Valid Parentheses](./020.%20Valid%20Parentheses) | Go |
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](./021.%20Merge％20Two％20Sorted％20Lists) | Go |
@@ -41,13 +42,13 @@ go get -u github.com/Han-MeiM/leetCode
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [Linked List Cycle](./141.%20Linked%20List%20Cycle) | C++ |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [Linked List Cycle II](./142.%20Linked%20List%20Cycle%20II) | Go |
 | 148 | [排序链表](https://leetcode-cn.com/problems/sort-list) | [Sort List](./148.%Sort%20List) | Go |
-| 155  | [最小栈](https://leetcode-cn.com/problems/min-stack) | [Min Stack](./155.%20Min％20Stack) | Go |
+| 155 | [最小栈](https://leetcode-cn.com/problems/min-stack) | [Min Stack](./155.%20Min％20Stack) | Go |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | [Intersection of Two Linked Lists](./160.%20Intersection%20of%20Two%20Linked%20Lists) | C++ |
-| 169  | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./169.%20Majority%20Element) | Go |
+| 169 | [求众数](https://leetcode-cn.com/problems/majority-element)  | [Majority Element](./169.%20Majority%20Element) | Go |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [Reverse Linked List](./206.%20Reverse%20Linked%20List) | Go<br />JavaScript |
-| 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./217.%20Contains%20Duplicate) | Go |
-| 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) | [Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST) | Go |
-| 231  | [2的幂](https://leetcode-cn.com/problems/power-of-two) | [Power of Two](./231.%20Power%20of%20Two) | Go |
+| 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [Contains Duplicate](./217.%20Contains%20Duplicate) | Go |
+| 230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) | [Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST) | Go |
+| 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two) | [Power of Two](./231.%20Power%20of%20Two) | Go |
 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](./235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | JavaScript |
 | 236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | C++ |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [Delete Node in a Linked List](./237.%20Delete%20Node%20in%20a%20Linked%20List) | Go<br />JavaScript |
