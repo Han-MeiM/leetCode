@@ -1,6 +1,4 @@
-## 思路
-
-题名：[单调数列](https://leetcode-cn.com/problems/monotonic-array)
+## 题名：[单调数列](https://leetcode-cn.com/problems/monotonic-array)
 
 首先定义 `previous := 0` 来记录上一个数字是递增还是递减
 
