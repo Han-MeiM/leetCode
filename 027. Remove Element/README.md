@@ -1,6 +1,4 @@
-## 思路
-
-题名：移除元素
+## 题名：[移除元素](https://leetcode-cn.com/problems/remove-element/)
 
 这里采用双指针的方法
 
