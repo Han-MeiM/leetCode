@@ -1,6 +1,4 @@
-## 解题思路
-
-题名：[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+## 题名：[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 
 根据LCA的定义和BST的特性
 
