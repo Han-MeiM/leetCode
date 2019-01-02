@@ -1,6 +1,4 @@
-## 思路
-
-题目：[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case)
+## 题目：[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case)
 
 `A-Z` 的 **ASCII** 码 为 **65-90**
 
