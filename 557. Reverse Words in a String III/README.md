@@ -1,6 +1,4 @@
-## 思路
-
-题目：[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)
+## 题目：[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)
 
 首先获取字符串长度 `l`
 
