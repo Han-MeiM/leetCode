@@ -1,6 +1,4 @@
-## 思路
-
-题名：求众数
+## 题名：[求众数](https://leetcode-cn.com/problems/majority-element/)
 
 首先创建一个 `map` 切片 `count` 用来装各数字出现的次数  
 
