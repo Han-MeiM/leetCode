@@ -1,6 +1,4 @@
-## 思路
-
-题目：[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list)
+## 题目：[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list)
 
 这道题描述有点不清楚
 
