@@ -1,6 +1,4 @@
-## 思路
-
-题名：无重复字符的最长子串
+## 题名：[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 首先从左开始循环作为子串的开头一直到末尾
 
