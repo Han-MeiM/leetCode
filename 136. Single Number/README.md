@@ -1,6 +1,4 @@
-## 解题思路
-
-题目：[只出现一次的数字](https://leetcode-cn.com/problems/single-number)
+## 题目：[只出现一次的数字](https://leetcode-cn.com/problems/single-number)
 
 这是一道非常有意思的题目
 
