@@ -1,6 +1,4 @@
-## 思路
-
-题目：[机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin)
+## 题目：[机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin)
 
 设原点坐标 `x=0` 且 `y=0`
 
