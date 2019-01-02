@@ -1,6 +1,4 @@
-## 思路
-
-题名：[回文数](https://leetcode-cn.com/problems/palindrome-number)
+## 题名：[回文数](https://leetcode-cn.com/problems/palindrome-number)
 
 该解法是通过对值以10取余来获取最右边的最小值
 
