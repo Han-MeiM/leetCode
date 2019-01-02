@@ -1,6 +1,4 @@
-## 思路
-
-题名：[最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)
+## 题名：[最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)
 
 预设两个长度变量 `maxL` 和 `tempL` 
 
