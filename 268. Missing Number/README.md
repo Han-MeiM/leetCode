@@ -1,6 +1,4 @@
-## 思路
-
-题名：[缺失数字](https://leetcode-cn.com/problems/missing-number)
+## 题名：[缺失数字](https://leetcode-cn.com/problems/missing-number)
 
 首先 `nums` 序列是从 `0 .. n` 的连续数字组成的
 
