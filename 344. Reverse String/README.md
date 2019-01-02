@@ -1,6 +1,4 @@
-## 思路
-
-题目：[反转字符串](https://leetcode-cn.com/problems/reverse-string)
+## 题目：[反转字符串](https://leetcode-cn.com/problems/reverse-string)
 
 获取字符串长度 `l`
 
