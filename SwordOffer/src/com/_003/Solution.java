@@ -1,4 +1,4 @@
-package com.list._003;
+package com._003;
 
 import com.structure.ListNode;
 import java.util.ArrayList;
