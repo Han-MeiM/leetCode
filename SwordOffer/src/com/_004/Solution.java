@@ -1,4 +1,4 @@
-package com.tree._004;
+package com._004;
 
 import com.structure.TreeNode;
 
