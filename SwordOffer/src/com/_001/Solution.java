@@ -1,4 +1,4 @@
-package com.array._001;
+package com._001;
 
 public class Solution {
     public boolean Find(int target, int[][] array) {
