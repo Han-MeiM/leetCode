@@ -1,4 +1,4 @@
-package com.stack._005;
+package com._005;
 
 import java.util.Stack;
 
