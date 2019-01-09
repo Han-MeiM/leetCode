@@ -1,4 +1,4 @@
-package com.string._002;
+package com._002;
 
 public class Solution {
     public String replaceSpace(StringBuffer str) {
