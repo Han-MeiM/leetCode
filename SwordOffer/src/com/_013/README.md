@@ -3,4 +3,4 @@
 
 ## 解析
 
-![_001](../../../../statics/SwordOffer/_013/001.png)
+![001](../../../../statics/SwordOffer/_013/_001.png)
