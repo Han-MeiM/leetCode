@@ -15,4 +15,6 @@
 | 011 | 二进制中1的个数 | [Solution](./src/com/_011) |
 | 012 | 数值的整数次方 | [Solution](./src/com/_012) |
 | 013 | 调整数组顺序使奇数位于偶数前面 | [Solution](./src/com/_013) |
+| 014 | 链表中倒数第 k 个节点 | [Solution](./src/com/_014) |
+| 015 | 反转链表 | [Solution](./src/com/_015) |
 
