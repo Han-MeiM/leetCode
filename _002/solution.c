@@ -43,6 +43,9 @@ struct ListNode *addTwoNumbers(struct ListNode *l1, struct ListNode *l2)
             l2Head = l2Head->next;
         }
 
+        // 当 l1 已经走完，而 l2 还未完时
+        // 将 l2 余下的赋值给 l1 的尾部
+        // 继续重复循环直到新的 l1 也走完
         if (l1Head == NULL && l2Head != NULL)
         {
             (*temp).next = l2Head;
