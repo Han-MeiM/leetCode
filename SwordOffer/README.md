@@ -17,4 +17,5 @@
 | 013 | 调整数组顺序使奇数位于偶数前面 | [Solution](./src/com/_013) |
 | 014 | 链表中倒数第 k 个节点 | [Solution](./src/com/_014) |
 | 015 | 反转链表 | [Solution](./src/com/_015) |
+| 046 | 把数字翻译成字符串 | [Solution](./src/com/_046) |
 
