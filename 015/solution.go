@@ -18,25 +18,25 @@ func threeSum(nums []int) [][]int {
 			break
 		}
 		// 避免重复
-		if i > 0 && nums[i] == nums[i - 1] {
+		if i > 0 && nums[i] == nums[i-1] {
 			continue
 		}
 		l = i + 1
 		r = lenNums - 1
 		dif = -nums[i]
 		for l < r {
-			if nums[l] + nums[r] == dif {
+			if nums[l]+nums[r] == dif {
 				res = append(res, []int{nums[i], nums[l], nums[r]})
-				// 避免重复和超出索引
-				for nums[l] == nums[l+1] {
-					l++
-				}
-				for nums[r] == nums[r-1] {
-					r--
-				}
 				l++
 				r--
-			} else if nums[l] + nums[r] < dif {
+				// 避免重复和超出索引
+				for (nums[l] == nums[l-1]) && l < r {
+					l++
+				}
+				for (nums[r] == nums[r+1]) && r > 0 {
+					r--
+				}
+			} else if nums[l]+nums[r] < dif {
 				l++
 			} else {
 				r--
@@ -47,7 +47,8 @@ func threeSum(nums []int) [][]int {
 }
 
 func main() {
-	nums := []int{-1, 0, 1, 2, -1, -4}
+	// nums := []int{-1, 0, 1, 2, -1, -4}
+	nums := []int{0, 0, 0}
 	res := threeSum(nums)
 	fmt.Println(res)
 }
