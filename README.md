@@ -72,3 +72,4 @@ go get -u github.com/Han-MeiM/leetCode
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix)                                            | [Toeplitz Matrix](./766)                                | Go                 |
 | 867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix)                                               | [Transpose Matrix](./867)                               | Go                 |
 | 896 | [单调数列](https://leetcode-cn.com/problems/monotonic-array)                                                | [Monotonic Array](./896)                                | Go                 |
+| 1300 | [转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target) | [Sum Of Mutated Array Closest To Target](./1300)                                | Go                 |
