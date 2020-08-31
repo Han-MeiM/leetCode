@@ -51,6 +51,7 @@ go get -u github.com/Han-MeiM/leetCode
 | 155 | [最小栈](https://leetcode-cn.com/problems/min-stack)                                                        | [Min Stack](./155)                                      | Go                 |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)                               | [Intersection of Two Linked Lists](./160)               | C++                |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element)                                                 | [Majority Element](./169)                               | Go                 |
+| 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/)                                                 | [Rotate Array](./189)                               | Go                 |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list)                                            | [Reverse Linked List](./206)                            | Go<br />JavaScript |
 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate)                                         | [Contains Duplicate](./217)                             | Go                 |
 | 230 | [二叉搜索树中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)                 | [Kth Smallest Element in a BST](./230)                  | Go                 |
